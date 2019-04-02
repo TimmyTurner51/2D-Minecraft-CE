@@ -21,8 +21,16 @@ Controls:
 - [clear] - pause
 
 Changelog:
-    - v1.3.7 alpha:
-- v1.3.7 is MC2, the name will be changed soon...
-- Texture Pack support will be added, but texture packs must be converted to a tileset. Edit MCCESPR to see the order
-of blocks the game needs.
-- More features will be added soon...
+    - v1.3.7 alpha (unreleased and released):
+- v1.3.7 released is MC2, the name will be changed soon...
+    - v1.3.7 unreleased will have these *new* features:
+-External Texture Pack support - You will be able to get premium texture packs from me once it is released...
+- List of texture packs are added in the STORE.
+- Skins Packs will also be available, given you follow the rules to earn them (below)
+- Options menu added - you will also be able to set Super-Secret Settings, which I will make COMPLETELY different from the real Minecraft
+
+RULES TO EARN STORE ITEMS:
+Once 1.3.7 is fully released, the store will be added. So with that, new features and items will be added.
+To earn a texture pack, you will need a screenshot of you earning the achievment 'EARN A STORE ITEM'. That applies for skin packs, too!
+You will be able to post them here: 
+https://www.cemetech.net/forum/viewtopic.php?t=15243&highlight=
