@@ -20,8 +20,7 @@ Controls:
 - [clear] - Quit game. 
 
 Changelog:
-     BETA
-     
+
     - v4.0.0 LITE
        - New and improved GUI. Controls updated.
        - Simple *LITE* version, which includes 4 different world sizes, 40x40, 60x60, 70x80, 80x90
@@ -29,19 +28,3 @@ Changelog:
        - A few bugs exist, and if a RAM Reset occurred, a message will automatically display 'Global Resources Reset'. This reloads all appvars the next time you enter the game.
        - Multiplayer menu is implemented, now just waiting for the USB Driver support in ICE.
        - A few more features that might be fixed or changed soon...
-    
-    
-    ALPHA
-    - v1.3.7 alpha (unreleased and released):
-- v1.3.7 released is MC2, the name will be changed soon...
-    - v1.3.7 unreleased will have these *new* features:
--External Texture Pack support - You will be able to get premium texture packs from me once it is released...
-- List of texture packs are added in the STORE.
-- Skins Packs will also be available, given you follow the rules to earn them (below)
-- Options menu added - you will also be able to set Super-Secret Settings, which I will make COMPLETELY different from the real Minecraft
-
-RULES TO EARN STORE ITEMS:
-Once 1.3.7 is fully released, the store will be added. So with that, new features and items will be added.
-To earn a texture pack, you will need a screenshot of you earning the achievment 'EARN A STORE ITEM'. That applies for skin packs, too!
-You will be able to post them here: 
-https://www.cemetech.net/forum/viewtopic.php?t=15243&highlight=
