@@ -13,14 +13,25 @@ Controls:
 
     In-game:
 - Arrow keys - move player
-- [2nd] - place block
+- [2nd] - Inventory
 - [del] - delete block
-- [alpha], [stat], [X,T,0,n], [apps] - Block cursor.
-- [math] - flying mode
-- [prgm] - Chat/command input
-- [clear] - pause
+- [alpha], [stat], [mode], [apps] - Block cursor.
+- [prgm] - Chat (not added yet, as of BETA v4.0.0, reason in Changelog)
+- [clear] - Quit game. 
 
 Changelog:
+     BETA
+     
+    - v4.0.0 LITE
+       - New and improved GUI. Controls updated.
+       - Simple *LITE* version, which includes 4 different world sizes, 40x40, 60x60, 70x80, 80x90
+       - No player skins are added in the world, and will be added shortly
+       - A few bugs exist, and if a RAM Reset occurred, a message will automatically display 'Global Resources Reset'. This reloads all appvars the next time you enter the game.
+       - Multiplayer menu is implemented, now just waiting for the USB Driver support in ICE.
+       - A few more features that might be fixed or changed soon...
+    
+    
+    ALPHA
     - v1.3.7 alpha (unreleased and released):
 - v1.3.7 released is MC2, the name will be changed soon...
     - v1.3.7 unreleased will have these *new* features:
