@@ -19,15 +19,17 @@ Controls:
 - [2nd] - Inventory
 - [del] - delete block
 - [alpha], [stat], [mode], [apps] - Block cursor.
-- [prgm] - Chat (not added yet, as of BETA v4.0.0, reason in Changelog)
+- [prgm] - Chat (not added yet, as of BETA v4.0.0)
 - [clear] - Quit game. 
 
 Changelog:
 
-    - v4.0.0 LITE
+    - v4.0.0.001 LITE
        - New and improved GUI. Controls updated.
-       - Simple *LITE* version, which includes 4 different world sizes, 40x40, 60x60, 70x80, 80x90
-       - No player skins are added in the world, and will be added shortly
-       - A few bugs exist, and if a RAM Reset occurred, a message will automatically display 'Global Resources Reset'. This reloads all appvars the next time you enter the game.
+       - Simple *LITE* version, which includes 4 different world sizes, 40x40, 60x60, 70x80, 80x90 (causes calc to freeze, so don't use it!)
+       - Player skins are added in worlds
+       - World Name saved properly, so you can see your world's name in the PLAY menu.
+       - Texture Packs list is updated and fixed, so no more corrupted, glitchy names and texture pack icons!
+       - A few bugs were fixed, but if a RAM Reset occurred, a message will automatically display 'Global Resources Reset'. This reloads all appvars the next time you enter the game.
        - Multiplayer menu is implemented, now just waiting for the USB Driver support in ICE.
-       - A few more features that might be fixed or changed soon...
+       - There are a few more features that might be fixed or changed soon...
