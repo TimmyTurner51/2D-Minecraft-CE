@@ -1,0 +1,20 @@
+This is the source code folder to BETA v4.0.01. Backup all RAM before executing
+
+
+BUGS:
+  - There are not that many noticeable bugs, except for one:
+    - When in a World, entering the Inventory is fine (SEE UNDER INVENTORY), but when exiting the Inventory, you will
+    notice that some parts of the world is removed (one layer is replaced with air). I cannot find why this bug is
+    there, and there is NO CODE telling Minecraft CE to delete parts of the world
+    
+    
+INVENTORY
+  - This Inventory is different than the Inventory in the compiled Minecraft I provided. Since that upload, lots of bugs
+  ARE FIXED! This inventory is based from Minecraft PS3 Edition in a way. The version of the menu is v1.5.0, which is not
+  important
+  
+  Please support me here if you find a fix to the world bug: https://www.cemetech.net/forum/viewtopic.php?t=15243&postdays=0&postorder=asc&start=120
+
+To test this game out, grab the ICE Compiler from ticalc, cemetech, or other calculator website that provides it.
+Enter the compiler and select MCLITESC. Press [enter], [2nd], or [y=] to compile.
+Exit the compiler and run MCLITE from the [prgm] menu, or your favorite Shell
