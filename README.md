@@ -33,3 +33,14 @@ Changelog:
        - A few bugs were fixed, but if a RAM Reset occurred, a message will automatically display 'Global Resources Reset'. This reloads all appvars the next time you enter the game.
        - Multiplayer menu is implemented, now just waiting for the USB Driver support in ICE.
        - There are a few more features that might be fixed or changed soon...
+
+CREDITS:
+- All thanks goes to the whole cemetech community.
+- LogicalJoe - Provided Texture Packs and the MINECRAFT logo. Also, LogicalJoe is my modivation to finish this project.
+- Beckadamtheinventor - Provided his version of the MINECRAFT logo. This logo was used in one version of Minecraft, but that logo appvar was removed unfortunately. I do appreciate the help from him. However, LogicalJoe's logo was accepted because I do not want to use a game's full name from a platform, like Pocket Edition.
+- There are so many programmers who have helped. I'd you to check them out in my development forum: https://www.cemetech.net/forum/viewtopic.php?t=15243&start=120
+
+- Please, don't hesitate to ask me a question, simply PM me on cemetech @TimmyTurner62.
+
+You can check out an older preview on YouTube here: https://www.youtube.com/watch?v=ZO1J95dctNs
+Thank you for the support!
