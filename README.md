@@ -1,6 +1,11 @@
 # 2D-Minecraft-CE
 A 2D Minecraft clone for the TI-84 Plus CE graphing calculator. Check out here: https://www.cemetech.net/forum/viewtopic.php?t=15243&amp;start=80  for more information.
 
+
+UPDATE ON THIS PROJECT: This project has, for now, been cancelled. However, I am currently working on a new and improved version of this, coded in C (also for the TI-84 Plus CE). That project will not be complete for a while, and I do have people helping with the project. We're making progress, but it'll be a while.
+Until then, you can try this game, but I don't recommend it that much anymore...
+
+
 To build, grab the ICE Compiler py PT_ from github or cemetech.net. Run the compiler and select MCLITESC, which is the source program.
 To run the pre-built version, run MCLITE from the PRGM menu or from your favorite shell!
 
